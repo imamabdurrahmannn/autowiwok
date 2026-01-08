@@ -1,23 +1,14 @@
 {
   "maps": [
     {
-      "name": "Sibuatan",
-      "url": "raw url github",
-      "locked": false
-    },
-    {
       "name": "Velora",
       "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Velora.json",
-      "locked": false
-    },
-    {
-      "name": "Aetheria",
-      "url": "raw url github",
       "locked": false
     },
   ]
 
 }
+
 
 
 
