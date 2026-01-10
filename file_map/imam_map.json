@@ -9,10 +9,16 @@
       "name": "Sibuatan",
       "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Sibuatan.json",
       "locked": false
+    },
+    {
+      "name": "Velora Balap",
+      "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Velorabalap.json",
+      "locked": false
     }
   ]
 
 }
+
 
 
 
