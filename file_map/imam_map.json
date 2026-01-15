@@ -1,8 +1,8 @@
 {
   "maps": [
     {
-      "name": "Velora",
-      "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Velora.json",
+      "name": "Velora New",
+      "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Veloranew.json",
       "locked": false
     },
     {
@@ -17,4 +17,3 @@
     }
   ]
 }
-
